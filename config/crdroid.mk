@@ -25,6 +25,13 @@ PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.services.whitelist.packagelist=com.google.android.gms
 
+# Cutout control overlays
+PRODUCT_PACKAGES += \
+    HideCutout \
+    HideNotch \
+    StatusBarStock \
+    StatusBarSysUIStock
+
 # Extra packages
 PRODUCT_PACKAGES += \
     crDroidMusic \
