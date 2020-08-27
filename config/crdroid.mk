@@ -153,3 +153,12 @@ PRODUCT_PACKAGES += \
     NavbarOnePlusOverlay \
     NavbarOneUiOverlay \
     NavbarTecnoCamonOverlay
+
+# Brightness Slider Styles
+PRODUCT_PACKAGES += \
+    BrightnessSliderStock \
+    BrightnessSliderDaniel \
+    BrightnessSliderMemeMini \
+    BrightnessSliderMemeRound \
+    BrightnessSliderMemeRoundStroke \
+    BrightnessSliderMemeStroke
