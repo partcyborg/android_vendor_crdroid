@@ -65,6 +65,7 @@ PRODUCT_PACKAGES += \
     RosemaryFont \
     RubikFont \
     SamsungOneFont \
+    SFProFont \
     SonySketchFont \
     StoropiaFont \
     SurferFont \
